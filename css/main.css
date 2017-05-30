@@ -311,7 +311,7 @@ header {
 }
 .mouse-icon .scroll {
     animation-delay: 0s;
-    animation-duration: 1s;
+    animation-duration: 2s;
     animation-iteration-count: infinite;
     animation-name: scrolling;
     animation-play-state: running;
