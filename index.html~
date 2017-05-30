@@ -60,17 +60,16 @@
         
         <div class="row header-info">
           <div class="col-sm-10 col-sm-offset-1 text-center">
-            <h1 class="wow fadeIn">A free landing page theme</h1>
+            <h1 class="wow fadeIn">MI PRIMER PROYECTO DE GIT</h1>
             <br />
-            <p class="lead wow fadeIn" data-wow-delay="0.5s">Lorem ipsum dolor sit amet, consectetur adipis. <br>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit sit dol mi arlna.</p>
+            <p class="lead wow fadeIn" data-wow-delay="0.5s">This is new for me I hope everything goes well with God's favor</p>
             <br />
               
             <div class="row">
               <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
                 <div class="row">
                   <div class="col-xs-6 text-right wow fadeInUp" data-wow-delay="1s">
-                    <a href="#be-the-first" class="btn btn-secondary btn-lg scroll">Learn More</a>
+                    <a href="#be-the-first" class="btn btn-secondary btn-lg scroll">twitter</a>
                   </div>
                   <div class="col-xs-6 text-left wow fadeInUp" data-wow-delay="1.4s">
                     <a href="#invite" class="btn btn-primary btn-lg scroll">Request Invite</a>
@@ -108,7 +107,12 @@
 		    <div class="row">
 			    <div class="col-sm-4 wow fadeIn" data-wow-delay="0.4s">
 				    <hr class="line purple">
-				    <h3>App Feature One Here</h3>
+				    <h3>INFORMACION DE INTERES</h3>
+				    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra orci ut est facilisis, eu elementum mi volutpat. Pellentesque ac tristique nisi.</p>
+			    </div>
+			    <div class="col-sm-4 wow fadeIn" data-wow-delay="0.4s">
+				    <hr class="line purple">
+				    <h3>INFORMACION DE INTERES</h3>
 				    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam viverra orci ut est facilisis, eu elementum mi volutpat. Pellentesque ac tristique nisi.</p>
 			    </div>
 			    <div class="col-sm-4 wow fadeIn" data-wow-delay="0.8s">
